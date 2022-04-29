@@ -1,0 +1,185 @@
+body {
+  font-family: "Montserrat";
+}
+/*Navbar Section*/
+.navC {
+  background-color: #fff;
+}
+.searchButton:hover {
+  background-color: #c0d8c0;
+  color: #000;
+}
+.PICTlogo {
+  width: 5rem;
+}
+.navbar-brand {
+  padding-left: 2%;
+}
+.NavList {
+  font-size: 1.1rem;
+  margin: 0 2%;
+}
+.formInput {
+  margin: 0 2%;
+}
+.collapseButton {
+  margin-right: 3%;
+}
+
+/* Heading Section */
+.HeadingS {
+  text-align: center;
+  padding: 10%;
+}
+.HeadingS h1 {
+  margin-bottom: 2%;
+  font-family: "Montserrat";
+  font-weight: 900;
+  font-size: 40px;
+  color: #c0d8c0;
+}
+.HeadingS p {
+  padding: 0 8%;
+}
+.header {
+  background-image: linear-gradient(rgba(4, 9, 30, 0.7), rgba(4, 9, 30, 0.7)),
+    url(/Images/banner.png);
+  background-position: center;
+  background-size: cover;
+  position: relative;
+  color: #c0d8c0;
+}
+
+/* About Us Section */
+.AboutUs {
+  background-color: #fff;
+  text-align: center;
+  padding: 6% 10%;
+  /* padding-top: 8%;*/
+}
+.AboutUs h1 {
+  padding-bottom: 2%;
+}
+
+/* Notice Section */
+.Notice {
+  text-align: center;
+  padding: 50px 100px;
+  background-color: #c0d8c0;
+}
+.Notice-column {
+  padding: 3% 2%;
+}
+/* .card{
+  border-radius: 2%;
+  box-shadow: 0px 0px 2px 2px #8888;
+  border-radius: 2%;
+} */
+.rowNotice {
+  padding: 2% 10%;
+}
+.Notice-info {
+  padding: 2% 0;
+}
+.notice-button:hover {
+  background-color: #c0d8c0;
+  color: #000;
+}
+/* Testimonial Section */
+.testimonials {
+  padding: 3% 0;
+  background-color: #c0d8c0;
+  text-align: center;
+}
+.carouselImage {
+  height: 150px;
+  width: 150px;
+  border-radius: 100%;
+  margin-bottom: 6%;
+}
+.TestBox {
+  padding: 3% 2%;
+}
+.single-box {
+  background-color: #fff;
+  padding: 5%;
+  /* border-radius: 5%; */
+
+  /* box-shadow: 0px 0px 2px 2px #8888; */
+}
+.boxtext h1 {
+  font-size: 28px;
+}
+.rowTestimonials {
+  padding: 2% 10%;
+}
+.single-box:hover {
+  background-color: #072227;
+  color: #fff;
+}
+.carousel-item {
+  padding: 4% 10%;
+  padding-top: 0%;
+}
+
+/* Stats Section */
+.stats h1 {
+  padding: 4% 0;
+  align-items: center;
+  text-align: center;
+}
+
+/*Footer Section*/
+.container-fluid {
+  padding: 0%;
+}
+.anchor {
+  display: block;
+  text-decoration: none;
+  color: #000;
+}
+.anchor:hover {
+  color: #c0d8c0;
+}
+.rowFooter {
+  text-align: center;
+}
+.rowFooter {
+  background-color: #fff;
+  padding: 2% 10%;
+}
+
+.copyright {
+  text-align: center;
+  background-color: #072227;
+  padding-bottom: 2%;
+  color: #fff;
+}
+.media-icon {
+  text-align: center;
+  background-color: #072227;
+  padding-top: 2%;
+  color: #fff;
+}
+.media-icon h3 {
+  font-size: 1.2em;
+}
+.footericon {
+  padding: 2% 1%;
+  padding-top: 0.5%;
+  font-size: 1.2em;
+  color: #fff;
+}
+.footericon:hover {
+  color: #c0d8c0;
+}
+.icon {
+  display: block;
+  padding: 1%;
+}
+.icon span {
+  padding-left: 2%;
+}
+.row-item {
+  padding: 5% 0%;
+}
